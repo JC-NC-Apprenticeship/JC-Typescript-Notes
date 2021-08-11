@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "ts-mocha ./src/**/*.spec.js || true"
+    "test": "ts-mocha ./src/**/*.spec.ts || true"
   },
   "repository": {
     "type": "git",
